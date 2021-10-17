@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Shreyam Sarkar</h1>
-<h3 align="center">A passionate Front-End Web developer and Competitive Programmer from India</h3>
+<h3 align="center">A passionate Front-End Web developer and Competitive Programmer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=darkhorse-2000&label=Profile%20views&color=0e75b6&style=flat" alt="darkhorse-2000" /> </p>
 
