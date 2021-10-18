@@ -11,7 +11,7 @@
 
 - 👯 I’m looking for **internships**
 
-- 👨‍💻 All of my projects are available at [https://github.com/darkhorse-2000/](https://github.com/darkhorse-2000)
+- 👨‍💻 All of my projects are available at [https://github.com/darkhorse-2000](https://github.com/darkhorse-2000)
 
 - 📫 How to reach me **sarkarsantanu733@gmail.com**
 
