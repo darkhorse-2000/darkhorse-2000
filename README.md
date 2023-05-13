@@ -32,4 +32,5 @@
 <a href="https://github.com/darkhorse-2000">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=darkhorse-2000&show_icons=true&theme=dracula&line_height=27" alt=""/>
 </a>
+<br/>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=darkhorse-2000&" alt="darkhorse-2000" /></p>
